@@ -63,4 +63,4 @@ Themes.Cobalt = {
 	IncorrectHighlight = Color3.fromRGB(103, 60, 79)
 }
 
-return Themes :: { [string]: typeof(Themes.Dark) }
+return Themes
