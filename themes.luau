@@ -33,7 +33,7 @@ Themes.Light = {
 	TextAlt2 = Color3.fromRGB(255, 255, 255),
 
 	DarkStroke = Color3.fromRGB(60, 60, 60),
-	LightStroke = Color3.fromRGB(157, 157, 157),
+	LightStroke = Color3.fromRGB(110, 110, 110),
 
 	SelectedWord = Color3.fromRGB(143, 110, 180),
 	CorrectWord = Color3.fromRGB(61, 163, 85),
