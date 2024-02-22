@@ -77,11 +77,11 @@ Themes.Violet = {
 	DarkStroke = Color3.fromRGB(13, 1, 13),
 	LightStroke = Color3.fromRGB(230, 168, 230),
 
-	SelectedWord = Color3.fromRGB(143, 110, 180),
+	SelectedWord = Color3.fromRGB(216, 110, 235),
 	CorrectWord = Color3.fromRGB(61, 163, 85),
 	IncorrectWord = Color3.fromRGB(172, 63, 63),
 
-	IncorrectHighlight = Color3.fromRGB(138, 43, 109)
+	IncorrectHighlight = Color3.fromRGB(61, 2, 61)
 }
 
 return Themes
