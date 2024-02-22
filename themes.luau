@@ -63,4 +63,25 @@ Themes.Cobalt = {
 	IncorrectHighlight = Color3.fromRGB(103, 60, 79)
 }
 
+Themes.Violet = {
+	Regular = Color3.fromRGB(24, 18, 32),
+	Soft = Color3.fromRGB(69, 55, 80),
+	Mute = Color3.fromRGB(115, 100, 138),
+	SuperMute = Color3.fromRGB(152, 130, 172),
+
+	Text = Color3.fromRGB(229, 228, 255),
+	TextHighlighted = Color3.fromRGB(255, 255, 255),
+	TextAlt = Color3.fromRGB(240, 165, 242),
+	TextAlt2 = Color3.fromRGB(252, 220, 252),
+
+	DarkStroke = Color3.fromRGB(),
+	LightStroke = Color3.fromRGB(255, 255, 255),
+
+	SelectedWord = Color3.fromRGB(135, 209, 255),
+	CorrectWord = Color3.fromRGB(84, 238, 146),
+	IncorrectWord = Color3.fromRGB(255, 105, 85),
+
+	IncorrectHighlight = Color3.fromRGB(138, 43, 109)
+}
+
 return Themes
