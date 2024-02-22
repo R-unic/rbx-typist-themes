@@ -75,11 +75,11 @@ Themes.Violet = {
 	TextAlt2 = Color3.fromRGB(255, 176, 255),
 
 	DarkStroke = Color3.fromRGB(13, 1, 13),
-	LightStroke = Color3.fromRGB(109, 71, 143),
+	LightStroke = Color3.fromRGB(184, 147, 217),
 
-	SelectedWord = Color3.fromRGB(216, 110, 235),
-	CorrectWord = Color3.fromRGB(61, 163, 85),
-	IncorrectWord = Color3.fromRGB(172, 63, 63),
+	SelectedWord = Color3.fromRGB(222, 167, 232),
+	CorrectWord = Color3.fromRGB(74, 199, 103),
+	IncorrectWord = Color3.fromRGB(191, 69, 69),
 
 	IncorrectHighlight = Color3.fromRGB(32, 18, 25)
 }
